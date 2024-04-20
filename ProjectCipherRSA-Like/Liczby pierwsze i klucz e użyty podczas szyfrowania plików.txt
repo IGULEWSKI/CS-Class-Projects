@@ -1,0 +1,4 @@
+Liczba pierwsza 1:2851
+liczba pierwsza 2:13
+klucz e: 2137
+klucz prywatny:(4273, 37063)
