@@ -1,4 +1,3 @@
-from time import sleep
 haslo='pass1'
 def hashin(nap,prim=31):
     hash=0
