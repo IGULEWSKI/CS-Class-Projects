@@ -1,3 +1,7 @@
+"""
+A desktop GUI application built in Python that visualizes various mathematical 
+fractals using the Tkinter and Turtle libraries.
+"""
 import turtle
 from math import sqrt
 import tkinter as tk
